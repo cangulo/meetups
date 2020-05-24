@@ -1,0 +1,50 @@
+{
+	"Contact Information": {
+		"scope": "markdown",
+		"prefix": "contact_info_md",
+		"body": [
+			"# Contact Information",
+			"",
+			"I'm a software engineer with experience in .NET Framework, .NET Core and Angular, I love ",
+			"challenges, learning and share knowledge. Feel free to contact me via LinkedIn.",
+			"",
+			"![Profile Picture](https://media-exp1.licdn.com/dms/image/C5612AQFBFdJt_exE8Q/article-inline_image-shrink_1000_1488/0?e=1590624000&v=beta&t=l3VTNfq9iN0bCFuXh_2bQr1xrd06yZoFGkm1w3DWRDQ)",
+			"",
+			"*Per aspera ad astra.*",
+			"",
+			"LinkedIn   - [Carlos Angulo Mascarell](https://www.linkedin.com/in/angulomascarell)  ",
+			"Twitter   - [@AnguloMascarell](https://twitter.com/angulomascarell)",
+		],
+		"description": "Contact Info snippet"
+	},
+	"Image Center": {
+		"scope": "markdown",
+		"prefix": "img_center",
+		"body": [
+			"<div align=\"center\">",
+			"\t<img src=\"[PATH]\" alt=\"[ALT_TEXT]\">",
+			"</div>",
+		],
+		"description": "Image in the center"
+	},
+	"Problem Template": {
+		"scope": "markdown",
+		"prefix": "docs_template_1",
+		"body": [
+			"# Introduction",
+			"",
+			"# Problem: ${1}",
+			"## Cause",
+			"## Effects",
+			"",
+			"# Solution: ${2}",
+			"## Proposal",
+			"## Implementation",
+			"",
+			"# Final Notes",
+			"",
+			"# Reference",
+		],
+		"description": "A MD Template is inserted"
+	}
+}
